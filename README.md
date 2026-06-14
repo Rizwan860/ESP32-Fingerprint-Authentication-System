@@ -40,8 +40,8 @@ A green LED indicates successful authentication, while a red LED indicates an un
 
 | Component | ESP32  |
 | --------- | ------ |
-| Green LED | GPIO25 |
-| Red LED   | GPIO26 |
+| Green LED | GPIO13 |
+| Red LED   | GPIO12 |
 
 ## Working Principle
 
